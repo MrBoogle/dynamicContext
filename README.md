@@ -3,6 +3,7 @@
 # Dynamic context selection proof of concept for the FINCH Predictive Coder Neural Network.
 
 To run this yourself, go to the directory of your choosing and run
+
 ```git clone https://github.com/MrBoogle/dynamicContext.git```
 
 Open unity hub and add a new project, and select the directory you cloned this repository into. I used Unity 2020.3.14, it should work with most Unity versions.
